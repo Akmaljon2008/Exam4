@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGPqFmA2hcg3LI7b02kYP8oJjlVoJPlJ0iVEUhj79Ud2z7+NAzelzJire4gp2PzS93V6BMFXStLsEnY4qVyy5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2023\\Desktop\\.Net\\week4\\exam\\Infrastracture\\Infrastracture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2023\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.2.24128.5\\microsoft.extensions.configuration.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.configuration.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.2.24128.5\\microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
